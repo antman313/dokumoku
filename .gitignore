@@ -4,6 +4,7 @@
 node_modules/
 vendor/
 build/*.zip
+sicherungen/
 *.zip
 ideas.txt
 readme.txt
