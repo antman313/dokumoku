@@ -4,6 +4,7 @@
 node_modules/
 vendor/
 build/*.zip
+build/
 sicherungen/
 *.zip
 ideas.txt
