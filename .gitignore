@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+vendor/
+build/*.zip
+*.zip
+ideas.txt
+readme.txt

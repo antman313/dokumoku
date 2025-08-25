@@ -1,0 +1,3 @@
+# Tech‑Referenz
+
+- Platzhalter
